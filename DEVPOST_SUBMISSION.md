@@ -119,8 +119,8 @@ We plan to expand Council in several directions:
 
 ## Try it out links
 
-- **GitHub (zan-maker):** https://github.com/zan-maker/council-tower
-- **GitHub (Cubiczan):** https://github.com/Cubiczan/council-tower
+- **GitHub (zan-maker):** https://github.com/icohangar-ops/council-tower
+- **GitHub (Cubiczan):** https://github.com/icohangar-ops/council-tower
 - **Codeberg:** https://codeberg.org/cubiczan/council-tower
 
 ## Video demo
