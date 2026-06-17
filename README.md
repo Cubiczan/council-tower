@@ -1,4 +1,4 @@
-# 🏛️ Council Tower Pipeline
+# Council Tower Pipeline
 
 **AI Deliberation Engine — Tower Pipeline Orchestration**
 
