@@ -24,6 +24,11 @@ import time
 # Add project root to path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+# --- Datadog LLM Observability (no-op unless DD_LLMOBS_ENABLED) ---
+from council.observability import init_observability
+
+init_observability("council-tower")
+
 from council.deliberation import run_deliberation
 from council.models import DeliberationResult
 from storage import save_result
